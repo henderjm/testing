@@ -1,4 +1,5 @@
 platform: linux
+image: dummy
 run:
   path: bash
   args:
