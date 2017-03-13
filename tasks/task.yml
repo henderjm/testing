@@ -1,9 +1,8 @@
-config:
-  platform: linux
-  run:
-    path: bash
-    args:
-    - -c
-    - |
-      whoami
-      exit 0
+platform: linux
+run:
+  path: bash
+  args:
+  - -c
+  - |
+    whoami
+    exit 0
