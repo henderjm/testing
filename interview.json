@@ -9,18 +9,18 @@
           "title": "Abbey Road",
           "year": 1969,
           "tracks": [
-            {"name": "Come Together", "duration": "4:20"},
-            {"name": "Something", "duration": "3:03"},
-            {"name": "Maxwell's Silver Hammer", "duration": "3:27"}
+            {"name": "Come Together", "duration": 4.20},
+            {"name": "Something", "duration": 3.03},
+            {"name": "Maxwell's Silver Hammer", "duration": 3.27}
           ]
         },
         {
           "title": "The White Album",
           "year": 1968,
           "tracks": [
-            {"name": "Back in the U.S.S.R.", "duration": "2:43"},
-            {"name": "Dear Prudence", "duration": "3:56"},
-            {"name": "While My Guitar Gently Weeps", "duration": "4:45"}
+            {"name": "Back in the U.S.S.R.", "duration": 2.43},
+            {"name": "Dear Prudence", "duration": 3.56},
+            {"name": "While My Guitar Gently Weeps", "duration": 4.45}
           ]
         }
       ]
@@ -34,18 +34,18 @@
           "title": "Highway 61 Revisited",
           "year": 1965,
           "tracks": [
-            {"name": "Like a Rolling Stone", "duration": "6:13"},
-            {"name": "Tombstone Blues", "duration": "5:58"},
-            {"name": "It Takes a Lot to Laugh, It Takes a Train to Cry", "duration": "4:09"}
+            {"name": "Like a Rolling Stone", "duration": 6.13},
+            {"name": "Tombstone Blues", "duration": 5.58},
+            {"name": "It Takes a Lot to Laugh, It Takes a Train to Cry", "duration": 4.09}
           ]
         },
         {
           "title": "Blonde on Blonde",
           "year": 1966,
           "tracks": [
-            {"name": "Visions of Johanna", "duration": "7:33"},
-            {"name": "I Want You", "duration": "3:07"},
-            {"name": "Stuck Inside of Mobile with the Memphis Blues Again", "duration": "7:05"}
+            {"name": "Visions of Johanna", "duration": 7.33},
+            {"name": "I Want You", "duration": 3.07},
+            {"name": "Stuck Inside of Mobile with the Memphis Blues Again", "duration": 7.05}
           ]
         }
       ]
